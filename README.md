@@ -122,3 +122,7 @@ Next, click add rule and configure the inbound rules using HTTP as the protocol 
 ![](./Images/Addarule.png)
 
 Now let's verify whether or not we can receive traffic. On the Terminal, use the command to send a request the Apache HTTP Server on port 80.
+
+```
+$ curl http://localhost:80
+```
