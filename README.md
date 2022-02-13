@@ -102,3 +102,5 @@ $ sudo systemctl status apache2
 ```
 
 If there is a green dot, then that means it's running! Nice work!
+
+![](./Images/Apache2status.png)
