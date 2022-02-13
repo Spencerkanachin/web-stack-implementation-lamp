@@ -216,3 +216,6 @@ $ sudo mkdir /var/www/projectlamp
 
 Next, assign ownership of the directory using the following command:
 
+```
+$ sudo chown -R $USER:$USER /var/www/projectlamp
+```
