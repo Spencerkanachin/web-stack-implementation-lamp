@@ -200,3 +200,5 @@ We can simultaneously install all three of these packages. Begin by running the 
 ```
 $ sudo apt install php libapache2-mod-php php-mysql
 ```
+
+![](./Images/phpinstallationimage.png)
