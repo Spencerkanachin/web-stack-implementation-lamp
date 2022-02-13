@@ -156,3 +156,7 @@ When prompted, confirm that you want to proceed with the installation by typing 
 ![](./Images/mysqlimage.png)
 
 Once the installation is complete, it is best practice to run a security script in order to add more security access to your database system. Use the following command:
+
+```
+$ sudo mysql_secure_installation
+```
