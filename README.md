@@ -146,3 +146,7 @@ Congratulations on setting up and running your Apache web server. Next, we will 
 
 Begin by using the following command to install MySQL:
 
+
+```
+$ sudo apt install mysql-server
+```
