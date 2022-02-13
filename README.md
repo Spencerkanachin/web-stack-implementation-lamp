@@ -160,3 +160,5 @@ Once the installation is complete, it is best practice to run a security script 
 ```
 $ sudo mysql_secure_installation
 ```
+
+![](./Images/mysqlimagechecking.png)
