@@ -245,3 +245,8 @@ $ sudo a2ensite projectlamp
 You may want to disable the default website that comes installed with Apache. This is necessary if you are not using a custom domain name, because in this case Apache’s default configuration would overwrite your virtual host.
 
 To disable Apache’s default website use the following command:
+
+```
+sudo a2dissite 000-default
+```
+
