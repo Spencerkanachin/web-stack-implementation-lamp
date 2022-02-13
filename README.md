@@ -75,4 +75,6 @@ $ ssh -i <private-key-name>.pem ubuntu@<Public-IP-address>
 
 Next, you will be asked if you want to continue connecting. Type Yes and press Enter on your keyboard.
 
-![](./Images/ec2connectionimage.png)
+![](./Images/ec2connectionimagefromterminalpng
+
+![](./Images/ec2connectionimagefromterminal.png)
