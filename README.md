@@ -231,3 +231,7 @@ Next, paste in the following configuration by pressing on i on the keyboard to e
 Next, we will use a series of commands.
 
 To show the new file in the sites-available directory, use the following command. With this Virtua lHost configuration, we are telling Apache to serve projectlamp using /var/www/projectlampl as its web root directory.
+
+```
+$ sudo ls /etc/apache2/sites-available
+```
