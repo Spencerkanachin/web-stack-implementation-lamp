@@ -269,3 +269,6 @@ Although our website is now active, the web root /var/www/projectlamp is still e
 sudo echo 'Hello LAMP from hostname' $(curl -s http://169.254.169.254/latest/meta-data/public-hostname) 'with public IP' $(curl -s http://169.254.169.254/latest/meta-data/public-ipv4) > /var/www/projectlamp/index.html
 
 Now let's test that the website is correctly displaying our content by opening the EC2 Public IP address in your web browser. http://<Public-IP-Address>:80 .
+
+It should look something like this:
+
