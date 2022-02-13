@@ -213,3 +213,6 @@ Begin by creating the directory for projectlamp using the following command:
 ```
 $ sudo mkdir /var/www/projectlamp
 ```
+
+Next, assign ownership of the directory using the following command:
+
