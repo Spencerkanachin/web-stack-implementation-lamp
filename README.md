@@ -272,3 +272,4 @@ Now let's test that the website is correctly displaying our content by opening t
 
 It should look something like this:
 
+![](./Images/phpimage.png)
