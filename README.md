@@ -135,3 +135,5 @@ Next, let's try to verify access through the web browser using the public IP add
 ```
 http://<Public-IP-Address>:80
 ```
+
+You should see the following web page. This is the Apache2 Ubuntu Default page:
