@@ -188,3 +188,11 @@ mysql> exit
 ```
 
 ![](./Images/mysqlimageexit.png)
+
+PHP
+Installing PHP on the virtual enviornment
+Congrats on making it this far! We have reached the final component of the LAMP web stack; PHP is general-purpose scripting language which process code so that it can display dynamic content to the end user.
+
+In addition to installing PHP, we must install php-mysql, which is a PHP module that allows PHP to communicate with MySQL-based databases. We must also install libapache2-mod-php to allow Apache to handle PHP files.
+
+We can simultaneously install all three of these packages. Begin by running the following command on Terminal:
