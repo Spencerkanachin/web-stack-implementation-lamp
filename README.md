@@ -86,3 +86,7 @@ What is Apache? Apache is a widely-used fast, reliable, and secure web server so
 Now we will install Apache using Ubuntu’s package manager: ‘apt’ Begin by using the $ sudo apt update command to check for any available updates.
 
 Next, run the following command to run the Apache package installation:
+
+```
+$ sudo apt install apache2
+```
