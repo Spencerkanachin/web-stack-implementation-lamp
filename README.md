@@ -221,3 +221,7 @@ $ sudo chown -R $USER:$USER /var/www/projectlamp
 ```
 
 Next, we must create and open a new configuration file using vi, which is a text editor. Use the command below to open a blank file:
+
+```
+$ sudo vi /etc/apache2/sites-available/projectlamp.conf
+```
