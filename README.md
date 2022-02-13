@@ -131,3 +131,7 @@ You should see something like this:
 ![](./Images/hostimage.png)
 
 Next, let's try to verify access through the web browser using the public IP address of the EC2 instance. Open a web browser of your choice and then enter the following url (remember to replace contents within the Anchor Tabs < >):
+
+```
+http://<Public-IP-Address>:80
+```
