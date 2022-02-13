@@ -237,3 +237,7 @@ $ sudo ls /etc/apache2/sites-available
 ```
 
 Next, use the a2ensite command to enable the new virtual host:
+
+```
+$ sudo a2ensite projectlamp
+```
