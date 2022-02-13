@@ -33,3 +33,5 @@ Next, click on "Launch Instances".
 Now we are going to configure our EC2 instance! Select the Ubuntu Server 20.04 LTS (HVM) as the Amazon Machine Image (AMI).
 ![](./Images/Ubuntuimage.png)
 
+Then, select "t2.micro" as the instance type. Once you have made the selection, click "Review and Launch
+
