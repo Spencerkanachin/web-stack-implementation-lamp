@@ -171,3 +171,4 @@ These security measures will remove anonymous users and the test database, disab
 
 Your Terminal should look something like this:
 
+![](./Images/mysqlimagepassword.png)
