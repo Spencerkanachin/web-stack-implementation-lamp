@@ -137,3 +137,5 @@ http://<Public-IP-Address>:80
 ```
 
 You should see the following web page. This is the Apache2 Ubuntu Default page:
+
+![](./Images/Apache2running.png)
