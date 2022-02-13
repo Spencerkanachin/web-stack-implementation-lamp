@@ -260,3 +260,6 @@ Finally, reload Apache so these changes take effect:
 ```
 $ sudo systemctl reload apache2
 ```
+Here is what you can expect to see on your Terminal:
+
+![](./Images/apachereloadimage.png)
