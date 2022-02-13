@@ -235,3 +235,5 @@ To show the new file in the sites-available directory, use the following command
 ```
 $ sudo ls /etc/apache2/sites-available
 ```
+
+Next, use the a2ensite command to enable the new virtual host:
