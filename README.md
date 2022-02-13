@@ -72,3 +72,5 @@ Now that you've copied the Public IP address, go back to Terminal. Connect to th
 $ ssh -i <private-key-name>.pem ubuntu@<Public-IP-address>
 
 ```
+
+Next, you will be asked if you want to continue connecting. Type Yes and press Enter on your keyboard.
