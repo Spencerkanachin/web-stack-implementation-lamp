@@ -92,3 +92,5 @@ $ sudo apt install apache2
 ```
 
 Terminal will generate a series of code. Once completed, you will see something like this:
+
+![](./Images/apache22installation.png)
