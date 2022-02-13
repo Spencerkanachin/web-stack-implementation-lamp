@@ -175,3 +175,6 @@ Your Terminal should look something like this:
 
 Next, you can check whether you can log in to the MySQL console by typing the following command. This command allows you to connect to the MySQL server as the administrative user (root user), which is implied by the use of 'sudo' part of the command:
 
+```
+$ sudo mysql
+```
