@@ -126,3 +126,5 @@ Now let's verify whether or not we can receive traffic. On the Terminal, use the
 ```
 $ curl http://localhost:80
 ```
+You should see something like this:
+
