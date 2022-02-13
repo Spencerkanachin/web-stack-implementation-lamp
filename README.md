@@ -114,3 +114,5 @@ When we created the EC2 instance on the AWS console,the TCP port 22 was opened b
 Begin by navigating to your EC2 instance on the AWS Console. Click on the security group tab and edit the inbound rules of the running EC2 instance.
 
 ![](./Images/securitygroup.png)
+
+![](./Images/securityinboudrule.png)
