@@ -180,3 +180,5 @@ $ sudo mysql
 ```
 
 ![](./Images/mysqlimagerunning.png)
+
+To exit the MySQL console, type the following:
