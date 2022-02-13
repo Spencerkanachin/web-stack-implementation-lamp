@@ -65,3 +65,5 @@ When prompted, type the password for your local PC and press Enter on your keybo
 Next, go back to the AWS console for a moment, and navigate to your running EC2 instance. Copy the Public IP address, as shown in the image below:
 
 ![](./Images/publicipimage.png)
+
+Now that you've copied the Public IP address, go back to Terminal. Connect to the EC2 instance by using the command below:
