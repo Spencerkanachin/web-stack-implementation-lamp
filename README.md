@@ -94,3 +94,5 @@ $ sudo apt install apache2
 Terminal will generate a series of code. Once completed, you will see something like this:
 
 ![](./Images/apache22installation.png)
+
+Once completed, use the following command to verify that Apache2 is running as a service in our OS:
