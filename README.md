@@ -139,3 +139,10 @@ http://<Public-IP-Address>:80
 You should see the following web page. This is the Apache2 Ubuntu Default page:
 
 ![](./Images/Apache2running.png)
+
+MySQL
+Installing MySQL on the virtual environment
+Congratulations on setting up and running your Apache web server. Next, we will install MySQL, which is an open-source relational database management system. This will allow us to store and manage data for the website.
+
+Begin by using the following command to install MySQL:
+
