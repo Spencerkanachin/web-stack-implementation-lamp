@@ -209,3 +209,7 @@ Creating a Virtual Host using Apache
 Next, we will create a virtual host using Apache. A virtual host allows us to have multiple websites located on a single machine! This will be used to test our setup.
 
 Begin by creating the directory for projectlamp using the following command:
+
+```
+$ sudo mkdir /var/www/projectlamp
+```
