@@ -256,3 +256,7 @@ $ sudo apache2ctl configtest
 ```
 
 Finally, reload Apache so these changes take effect:
+
+```
+$ sudo systemctl reload apache2
+```
