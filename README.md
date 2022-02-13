@@ -112,3 +112,5 @@ In order to receive traffic to our Web Server, it is imperative to open TCP port
 When we created the EC2 instance on the AWS console,the TCP port 22 was opened by default. This allowed us to access the EC2 via SSH in Terminal. However, we must add a rule to the security groups of our EC2 configuration, in order to allow inbound connections through port 80.
 
 Begin by navigating to your EC2 instance on the AWS Console. Click on the security group tab and edit the inbound rules of the running EC2 instance.
+
+![](./Images/securitygroup.png)
