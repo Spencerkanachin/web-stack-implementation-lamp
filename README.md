@@ -116,3 +116,5 @@ Begin by navigating to your EC2 instance on the AWS Console. Click on the securi
 ![](./Images/securitygroup.png)
 
 ![](./Images/securityinboudrule.png)
+
+Next, click add rule and configure the inbound rules using HTTP as the protocol and 0.0.0.0/0 as the source, so that traffic from any IP address can enter.
