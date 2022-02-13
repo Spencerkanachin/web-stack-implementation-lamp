@@ -31,4 +31,5 @@ Next, click on "Launch Instances".
 
 
 Now we are going to configure our EC2 instance! Select the Ubuntu Server 20.04 LTS (HVM) as the Amazon Machine Image (AMI).
+![](./Images/Ubuntuimage.png)
 
