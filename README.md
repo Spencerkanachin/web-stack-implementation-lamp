@@ -24,3 +24,4 @@ Once you have signed-in to your AWS account, navigate to the top-right of the sc
 ![](./Images/AWSAccountimage.png)
 
 After you have selected your region, navigate to the search bar and type in EC2. Select the EC2 service that appears.
+![](./Images/AWSec2image.png)
