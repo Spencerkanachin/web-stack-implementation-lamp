@@ -162,3 +162,12 @@ $ sudo mysql_secure_installation
 ```
 
 ![](./Images/mysqlimagechecking.png)
+
+Once you are satisfied with your password, enter it then type Y for “Yes” when asked if you want to continue with the password provided.
+
+For the rest of the questions, type Y for "Yes" and press "Enter" on your keyboard at each prompt.
+
+These security measures will remove anonymous users and the test database, disable remote root logins, and then reload these new rules so that the changes will be reflected on the MySQL database.
+
+Your Terminal should look something like this:
+
