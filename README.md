@@ -178,3 +178,5 @@ Next, you can check whether you can log in to the MySQL console by typing the fo
 ```
 $ sudo mysql
 ```
+
+![](./Images/mysqlimagerunning.png)
