@@ -47,3 +47,5 @@ Next, you should see a window appear. Create a key pair and then select "Downloa
 ![](./Images/lauchimage.png)
 
 Great job! You've launched an EC2 instance! You can view your new instance by clicking the "View Instances" button at the bottom-right of your screen. Note: it may take a moment to initialize, so please be patient!
+
+![](./Images/viewinstanceimage.png)
