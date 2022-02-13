@@ -152,3 +152,5 @@ $ sudo apt install mysql-server
 ```
 
 When prompted, confirm that you want to proceed with the installation by typing Y for "Yes", and then press "Enter" on your Keyboard.
+
+![](./Images/mysqlimage.png)
