@@ -225,3 +225,5 @@ Next, we must create and open a new configuration file using vi, which is a text
 ```
 $ sudo vi /etc/apache2/sites-available/projectlamp.conf
 ```
+
+Next, paste in the following configuration by pressing on i on the keyboard to engage the 'insert' mode, then paste the text below:
