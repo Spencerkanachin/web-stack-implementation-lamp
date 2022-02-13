@@ -35,3 +35,5 @@ Now we are going to configure our EC2 instance! Select the Ubuntu Server 20.04 L
 
 Then, select "t2.micro" as the instance type. Once you have made the selection, click "Review and Launch
 
+
+![](./Images/EC2tierimage.png)
