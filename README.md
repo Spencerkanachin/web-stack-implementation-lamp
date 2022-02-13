@@ -25,3 +25,10 @@ Once you have signed-in to your AWS account, navigate to the top-right of the sc
 
 After you have selected your region, navigate to the search bar and type in EC2. Select the EC2 service that appears.
 ![](./Images/AWSec2image.png)
+
+Next, click on "Launch Instances".
+
+
+
+Now we are going to configure our EC2 instance! Select the Ubuntu Server 20.04 LTS (HVM) as the Amazon Machine Image (AMI).
+
