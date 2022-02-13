@@ -128,3 +128,4 @@ $ curl http://localhost:80
 ```
 You should see something like this:
 
+![](./Images/hostimage.png)
