@@ -202,3 +202,10 @@ $ sudo apt install php libapache2-mod-php php-mysql
 ```
 
 ![](./Images/phpinstallationimage.png)
+
+Congrats! The LAMP stack is now completely installed and fully operational.
+
+Creating a Virtual Host using Apache
+Next, we will create a virtual host using Apache. A virtual host allows us to have multiple websites located on a single machine! This will be used to test our setup.
+
+Begin by creating the directory for projectlamp using the following command:
