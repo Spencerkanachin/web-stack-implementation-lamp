@@ -78,3 +78,11 @@ Next, you will be asked if you want to continue connecting. Type Yes and press E
 ![](./Images/ec2connectionimagefromterminalpng
 
 ![](./Images/ec2connectionimagefromterminal.png)
+
+APACHE
+Installing Apache on the virtual environment
+What is Apache? Apache is a widely-used fast, reliable, and secure web server software. A web server acts as a middleman between the website visitor browser and the server.
+
+Now we will install Apache using Ubuntu’s package manager: ‘apt’ Begin by using the $ sudo apt update command to check for any available updates.
+
+Next, run the following command to run the Apache package installation:
