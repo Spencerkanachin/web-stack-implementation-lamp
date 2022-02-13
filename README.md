@@ -100,3 +100,5 @@ Once completed, use the following command to verify that Apache2 is running as a
 ```
 $ sudo systemctl status apache2
 ```
+
+If there is a green dot, then that means it's running! Nice work!
