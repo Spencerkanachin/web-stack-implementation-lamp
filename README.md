@@ -263,3 +263,5 @@ $ sudo systemctl reload apache2
 Here is what you can expect to see on your Terminal:
 
 ![](./Images/apachereloadimage.png)
+
+Although our website is now active, the web root /var/www/projectlamp is still empty. Let's create an index.html file in that location so that we will be able to test that the virtual host works properly. Use the command below:
