@@ -39,3 +39,5 @@ Then, select "t2.micro" as the instance type. Once you have made the selection, 
 ![](./Images/EC2tierimage.png)
 
 When you reach the "Review and Launch" page, click the "Launch" at the bottom-right of the page.
+
+[](./Images/Instantlauchimage.png)
