@@ -120,3 +120,5 @@ Begin by navigating to your EC2 instance on the AWS Console. Click on the securi
 Next, click add rule and configure the inbound rules using HTTP as the protocol and 0.0.0.0/0 as the source, so that traffic from any IP address can enter.
 
 ![](./Images/Addarule.png)
+
+Now let's verify whether or not we can receive traffic. On the Terminal, use the command to send a request the Apache HTTP Server on port 80.
